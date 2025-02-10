@@ -1,0 +1,21 @@
+.carousel {
+    margin-top: 10px;
+    width: auto;
+    align-items: center;
+    
+}
+
+.carousel img {
+    border-radius: 15px;
+}
+
+.table {
+    margin-top: 15px;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 10px;
+    text-transform: uppercase;
+
+}
